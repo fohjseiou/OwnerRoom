@@ -9,8 +9,7 @@ hello git!hello Git
 hello git!hello Git
 hello git!hello Git
 hello git!hello Git
-<<<<<<< HEAD
 Are you happy everyday?
 Are you happy everyday? haha defeat!
->>>>>>> hot-fix
+twenty minutes later，I will go home to eat dinner 
 
